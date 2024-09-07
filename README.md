@@ -13,6 +13,8 @@ This repository contains all the final code files we've written in my series on 
 6. drawElements  [link to come](#)
 7. Targets  [link to come](#)
 
+[All targets functions](./AllTargetFunctions.html)
+
 #### About the series
 Every video will attempt to demonstrate some aspect of WebGL 2 in isolation. We're avoiding all 3rd party dependencies. We're not building up to a grand application at the end. We're not even building our own WebGL library. All code will exist in a single page and, as much as possible, will focus on a single, isolated concept.
 
